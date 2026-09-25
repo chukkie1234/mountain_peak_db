@@ -14,4 +14,4 @@ The project includes basic, aggregation, relationship, complex, and advanced SQL
 
 ## Assignment
 
-The completed work is available on the assignment-complete branch.
+The completed work is available on the master branch.
